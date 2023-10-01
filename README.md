@@ -31,6 +31,4 @@ admin routes: https://www.reddit.com/r/nextjs/comments/165aapu/my_nextjs_site_is
 
 ---
 
-todos:
-
-- create scrumboard/kanban
+trello: https://trello.com/b/OkHnr0Hs/lila-app
