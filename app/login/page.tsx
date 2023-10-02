@@ -1,7 +1,11 @@
+import Header from "../components/Header"
+import LoginForm from "../components/LoginForm"
+
 export default function Page() {
   return (
     <>
-      <h1>hello from login page</h1>
+      <Header />
+      <LoginForm />
     </>
   )
 }
