@@ -15,7 +15,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-hook-form": "^7.46.2",
+    "react-hook-form": "^7.47.0",
     "styled-components": "^5",
     "styled-normalize": "^8.0.7"
   },
