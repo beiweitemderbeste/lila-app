@@ -15,10 +15,10 @@ const LoginForm = () => {
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
       <input
-        placeholder="username"
-        {...register("username", { required: true })}
+        placeholder="email"
+        {...register("email", { required: true })}
       />
-      {errors.username && <span>This field is required</span>}
+      {errors.email && <span>This field is required</span>}
 
       <input
         placeholder="password"

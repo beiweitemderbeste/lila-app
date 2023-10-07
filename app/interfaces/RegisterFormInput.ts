@@ -1,7 +1,7 @@
 interface RegisterFormInput {
   email: string;
-  username: string;
   password: string;
+  confirmPassword: string;
 }
 
 export default RegisterFormInput;
