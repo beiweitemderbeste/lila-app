@@ -1,5 +1,10 @@
+import Header from "../components/Header";
+
 export default function Page() {
   return (
-    <h1>hello from register page</h1>
-  )
+    <>
+      <Header />
+      <h1>hello from register page</h1>
+    </>
+  );
 }
