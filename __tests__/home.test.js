@@ -1,7 +1,6 @@
 import { render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
 
-import Home from "../app/page";
 import Header from "../app/components/Header";
 import MenuContainer from "../app/components/MenuContainer";
 
