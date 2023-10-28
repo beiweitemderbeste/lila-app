@@ -1,10 +1,10 @@
 import React from "react";
 import { render } from "@testing-library/react";
 
-import Header from "../../app/components/Header";
+import LilaHeading from "@/app/components/LilaHeading";
 
-describe("Header", () => {
+describe("LilaHeading", () => {
   it("renders without errors", () => {
-    render(<Header />);
+    render(<LilaHeading />);
   });
 });
